@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "project_type": "unknown",
+  "created_at": "2026-01-27T15:48:39.241414",
+  "updated_at": "2026-01-28T15:57:51.052011",
+  "files": {
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\index_project.py": {
+      "mtime": 1769500102.6335833,
+      "size": 12594,
+      "indexed_in": "directories\\scripts.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\parsers\\base.py": {
+      "mtime": 1769499354.6891015,
+      "size": 2895,
+      "indexed_in": "directories\\scripts_parsers.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\parsers\\python_parser.py": {
+      "mtime": 1769498484.9177861,
+      "size": 5984,
+      "indexed_in": "directories\\scripts_parsers.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\parsers\\typescript.py": {
+      "mtime": 1769498441.1213613,
+      "size": 6491,
+      "indexed_in": "directories\\scripts_parsers.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\parsers\\__init__.py": {
+      "mtime": 1769498313.8711648,
+      "size": 264,
+      "indexed_in": "directories\\scripts_parsers.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\utils\\ignore.py": {
+      "mtime": 1769499652.8150187,
+      "size": 4662,
+      "indexed_in": "directories\\scripts_utils.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\utils\\meta.py": {
+      "mtime": 1769500048.636941,
+      "size": 5881,
+      "indexed_in": "directories\\scripts_utils.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\utils\\tree.py": {
+      "mtime": 1769499477.5675814,
+      "size": 4818,
+      "indexed_in": "directories\\scripts_utils.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\scripts\\utils\\__init__.py": {
+      "mtime": 1769498509.1641307,
+      "size": 205,
+      "indexed_in": "directories\\scripts_utils.md",
+      "checksum": null
+    },
+    "C:\\Users\\jrien\\.claude\\skills\\project-indexer\\test_example.ts": {
+      "mtime": 1769500157.9027045,
+      "size": 789,
+      "indexed_in": "directories\\root.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\index_project.py": {
+      "mtime": 1769500321.2491064,
+      "size": 12594,
+      "indexed_in": "directories\\project-indexer_scripts.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\parsers\\base.py": {
+      "mtime": 1769500321.3136756,
+      "size": 2895,
+      "indexed_in": "directories\\project-indexer_scripts_parsers.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\parsers\\python_parser.py": {
+      "mtime": 1769500321.312672,
+      "size": 5984,
+      "indexed_in": "directories\\project-indexer_scripts_parsers.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\parsers\\typescript.py": {
+      "mtime": 1769500321.3116722,
+      "size": 6491,
+      "indexed_in": "directories\\project-indexer_scripts_parsers.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\parsers\\__init__.py": {
+      "mtime": 1769500321.3136756,
+      "size": 264,
+      "indexed_in": "directories\\project-indexer_scripts_parsers.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\utils\\ignore.py": {
+      "mtime": 1769500321.316677,
+      "size": 4662,
+      "indexed_in": "directories\\project-indexer_scripts_utils.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\utils\\meta.py": {
+      "mtime": 1769500321.3156757,
+      "size": 5881,
+      "indexed_in": "directories\\project-indexer_scripts_utils.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\utils\\tree.py": {
+      "mtime": 1769500321.3793008,
+      "size": 4818,
+      "indexed_in": "directories\\project-indexer_scripts_utils.md",
+      "checksum": null
+    },
+    "D:\\data\\claude-project\\project-index\\project-indexer\\scripts\\utils\\__init__.py": {
+      "mtime": 1769500321.3803012,
+      "size": 205,
+      "indexed_in": "directories\\project-indexer_scripts_utils.md",
+      "checksum": null
+    }
+  }
+}
