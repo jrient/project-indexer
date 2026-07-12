@@ -1,3 +1,5 @@
+[English](./README.en.md) | 简体中文
+
 # Project Indexer
 
 为大型代码库生成层级化索引，使 AI 助手能够渐进式理解项目结构，而无需超出上下文限制。
